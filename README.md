@@ -1,2 +1,2 @@
-##Default "NGINX" config file 
+## Default "NGINX" config file 
 > V dannom faile nahoditsya defoltny fail konfiguracii nginx
